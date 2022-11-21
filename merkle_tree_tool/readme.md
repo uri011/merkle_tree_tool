@@ -34,4 +34,4 @@ Execution permission is required as follows (command execution must be in the di
 
 ## Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name]([https://github.com/your_username/repo_name](https://github.com/uri011/merkle_tree_tool))
